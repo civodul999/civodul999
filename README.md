@@ -5,7 +5,9 @@ Voici mon profil public, il est vide car le plus souvent je push+commit sur mon 
 
 
 [CV](https://cv.ludovicpoux.fr/)
+
 [LinkedIn](https://www.linkedin.com/in/ludovic-poux/)
+
 
 <!--
 - 🔭 I’m currently working on ...
