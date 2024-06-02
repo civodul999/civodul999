@@ -1,7 +1,7 @@
 ## Bienvenue 👋
 
 
-Voici mon profil public, il est vide car le plus souvent je push+commit sur mon Gitea personnel.
+Voici mon profil public, il est vide car le plus souvent j'utilise mon Gitea personnel.
 
 
 [CV](https://cv.ludovicpoux.fr/)
